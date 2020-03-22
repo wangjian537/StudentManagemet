@@ -1,0 +1,11 @@
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.BLL.exe.config
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.BLL.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.BLL.pdb
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\Maticsoft.Common.dll
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.DAL.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.Model.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.DAL.pdb
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\bin\Debug\MUSE.Model.pdb
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\obj\Debug\MUSE.BLL.csprojResolveAssemblyReference.cache
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\obj\Debug\MUSE.BLL.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.BLL\obj\Debug\MUSE.BLL.pdb

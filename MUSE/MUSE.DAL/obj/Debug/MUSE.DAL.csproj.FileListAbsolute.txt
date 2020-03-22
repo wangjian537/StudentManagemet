@@ -1,0 +1,8 @@
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\bin\Debug\MUSE.DAL.exe.config
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\bin\Debug\MUSE.DAL.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\bin\Debug\MUSE.DAL.pdb
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\bin\Debug\MUSE.Model.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\bin\Debug\MUSE.Model.pdb
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\obj\Debug\MUSE.DAL.csprojResolveAssemblyReference.cache
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\obj\Debug\MUSE.DAL.exe
+G:\大三\web开发\StudentManagement\MUSE\MUSE.DAL\obj\Debug\MUSE.DAL.pdb
