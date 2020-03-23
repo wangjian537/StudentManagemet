@@ -45,8 +45,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminManager.cs" />
+    <Compile Include="CollegeManager.cs" />
     <Compile Include="CourseManager.cs" />
+    <Compile Include="CourseTypeCodeManager.cs" />
     <Compile Include="Course_timeManager.cs" />
+    <Compile Include="IdentityCodeManager.cs" />
+    <Compile Include="LoginManager.cs" />
+    <Compile Include="membershipManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

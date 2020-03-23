@@ -43,9 +43,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminService.cs" />
+    <Compile Include="CollegeService.cs" />
     <Compile Include="CourseService.cs" />
+    <Compile Include="CourseTypeCodeService.cs" />
     <Compile Include="Course_timeService.cs" />
     <Compile Include="DbHelperSQL.cs" />
+    <Compile Include="IdentityCodeService.cs" />
+    <Compile Include="LoginService.cs" />
+    <Compile Include="membershipService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

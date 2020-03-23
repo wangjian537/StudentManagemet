@@ -42,8 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Admin.cs" />
+    <Compile Include="College.cs" />
     <Compile Include="Course.cs" />
+    <Compile Include="CourseTypeCode.cs" />
     <Compile Include="Course_time.cs" />
+    <Compile Include="IdentityCode.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="membership.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
