@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.boss{
+	width: 936px;
+	height: 442px;
+	margin: 0 auto;
+	border: 1px solid #e7e7e7;
+}
+/* 导航 */
+.box1{
+	width: 936px;
+	height: 20px;
+	background: #f5f5f5;
+	border-bottom: 1px solid #E7E7E7;
+}
+.box1 span{
+	margin-left: 5px;
+}
+.box2{
+	width: 936px;
+	height: 422px;
+}
+.box2 img{
+	width: 239px;
+	height: 322px;
+	margin:50px 50px;
+	float: left;
+	overflow: hidden;
+}
+.box2_1{
+	width: 550px;
+	height: 422px;
+	float: left;
+}
+.box2_1 h2{
+	width: 568px;
+	height: 48px;
+	line-height: 48px;
+	text-align: center;
+	margin-top: 12px;
+}
+.box2_1 ul{
+	width: 550px;
+	height: 288px;
+}
+.box2_1 ul li{
+	width: 550px;
+	height: 48px;
+	line-height: 48px;
+	font-size: 12px;
+}
+.box2_1 ul .li6{
+    line-height: 24px;
+}
+.box2_1 button{
+	margin-left: 250px;
+	margin-top: 30px;
+}

@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link href="../../layui/css/layui.css" rel="stylesheet" />
+    <link href="../../css/top.css" rel="stylesheet" />
+    <link href="../../css/body.css" rel="stylesheet" />
+    <link href="../../css/bottom.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="CSSLink" runat="server" />
+        
+</head>
+<body>
+
+    <!-- 顶部 -->
+		<div class="top">
+			<div class="topc">
+				<div class="log">
+				    <img src="<%= Url.Content("/img/img1.png") %>">
+				</div>		
+				<div class="login">	
+				    <a href="">	
+				        <button class="layui-btn" type="button"> <span class="layui-icon">&#xe770;</span>用户登录</button>
+				    </a>
+				</div>
+				<div class="login">	
+				    <a href="">	
+				        <button class="layui-btn" type="button"> <span class="layui-icon">&#xe612;</span>客服</button>
+				    </a>
+				</div>
+			</div>
+		</div>
+    <div></div>
+
+
+    <div>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <!-- 底部 -->
+		    
+            <footer class="footer">
+        
+                <div class="container">
+                    <img src="img/xx.png" alt="">
+                    <div class="description">
+                        湖北大学成绩管理系统 <br>
+                        设计者：MUSE Team <br>
+                        鄂ICP备05003305    邮编：430062 <br>
+                        地址：湖北省武汉市武昌区友谊大道368号
+                    </div>
+            
+
+                </div>
+        
+        
+            </footer>
+
+
+</body>
+</html>

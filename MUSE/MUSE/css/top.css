@@ -1,0 +1,28 @@
+
+div {
+    display: block;
+}
+
+
+.top {
+    height: 120px;
+    width: 100%;
+    background: #1e6f46;
+    min-width: 1200px;
+}
+.top .topc {
+    width: 1200px;
+    height: 100px;
+    margin: 0 auto;
+}
+.top .topc .login{
+ 	margin-top: 40px;
+	margin-left: 120px; 
+	float:left;
+	}
+.top .topc .log {
+    width: 688x;
+    height: 89px;
+    padding-top: 15px;
+    float: left;
+}

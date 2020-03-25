@@ -268,8 +268,9 @@ namespace MUSE.DAL
             strSql.Append(" FROM 课程表 ");
             if (strWhere.Trim() != "")
             {
-                strSql.Append(" where " + strWhere);
+                strSql.Append(" where " + "课程名 like \'%" + strWhere + "%\'");
             }
+            System.Diagnostics.Debug.WriteLine(strSql.ToString());
             return DbHelperSQL.Query(strSql.ToString());
         }
 

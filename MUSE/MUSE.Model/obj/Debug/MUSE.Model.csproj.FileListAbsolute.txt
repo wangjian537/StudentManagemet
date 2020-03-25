@@ -1,6 +1,5 @@
 G:\大三\web开发\StudentManagement\MUSE\MUSE.Model\bin\Debug\MUSE.Model.exe.config
 G:\大三\web开发\StudentManagement\MUSE\MUSE.Model\bin\Debug\MUSE.Model.exe
 G:\大三\web开发\StudentManagement\MUSE\MUSE.Model\bin\Debug\MUSE.Model.pdb
-G:\大三\web开发\StudentManagement\MUSE\MUSE.Model\obj\Debug\MUSE.Model.csprojResolveAssemblyReference.cache
 G:\大三\web开发\StudentManagement\MUSE\MUSE.Model\obj\Debug\MUSE.Model.exe
 G:\大三\web开发\StudentManagement\MUSE\MUSE.Model\obj\Debug\MUSE.Model.pdb

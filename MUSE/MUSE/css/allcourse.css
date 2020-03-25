@@ -1,0 +1,49 @@
+ *{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+} 
+.boss{
+	width: 936px;
+/* 	height: 442px; */
+	margin: 0 auto;
+/* 	border: 1px solid #e7e7e7; */
+}
+/* 导航 */
+.box1{
+	width: 936px;
+	background: #f5f5f5;
+/* 	border-bottom: 1px solid #E7E7E7; */
+}
+
+.search{
+	width: 936px;
+	height: 555px; 
+} 
+
+.search button{
+	float:left;
+	flex:4;
+	height:30px;
+	outline:none;
+	border:1px solid darkgreen;
+	box-sizing:border-box;'padding-left:10px;
+}
+
+.search button i{
+	font-style:normal;
+}
+
+.search button:hover{
+	font-size:16px;
+}
+
+
+
+
+

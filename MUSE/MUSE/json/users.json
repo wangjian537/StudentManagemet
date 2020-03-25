@@ -1,0 +1,205 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 30,
+  "data": [
+    {
+      "id": 1,
+      "name": "大学生心理健康教育",
+      "credit": 1.0,
+      "period": 64,
+      "type": "必修",
+      "college": "21",
+      "starttime": "1"
+    },
+    {
+      "id": 2,
+      "name": "军事理论",
+      "credit": 1.0,
+      "period": 64,
+      "type": "必修",
+      "college": "21",
+      "starttime": "1"
+    },
+    {
+      "id": 3,
+      "name": "大学英语（1）",
+      "credit": 4.0,
+      "period": 64,
+      "type": "必修",
+      "college": "13",
+      "starttime": "1"
+    },
+    {
+      "id": 4,
+      "name": "大学英语（2）",
+      "credit": 4.0,
+      "period": 64,
+      "type": "必修",
+      "college": "13",
+      "starttime": "2"
+    },
+    {
+      "id": 5,
+      "name": "大学英语（3）",
+      "credit": 4.0,
+      "period": 64,
+      "type": "必修",
+      "college": "13",
+      "starttime": "3"
+    },
+    {
+      "id": 6,
+      "name": "大学英语（4）",
+      "credit": 4.0,
+      "period": 64,
+      "type": "必修",
+      "college": "13",
+      "starttime": "4"
+    },
+    {
+      "id": 7,
+      "name": "大学体育（1）",
+      "credit": 1.0,
+      "period": 32,
+      "type": "必修",
+      "college": "01",
+      "starttime": "1"
+    },
+    {
+      "id": 8,
+      "name": "大学体育（2）",
+      "credit": 1.0,
+      "period": 32,
+      "type": "必修",
+      "college": "01",
+      "starttime": "2"
+    },
+    {
+      "id": 9,
+      "name": "大学体育（3）",
+      "credit": 1.0,
+      "period": 32,
+      "type": "必修",
+      "college": "01",
+      "starttime": "3"
+    },
+    {
+      "id": 10,
+      "name": "大学体育（4）",
+      "credit": 1.0,
+      "period": 32,
+      "type": "必修",
+      "college": "01",
+      "starttime": "4"
+    },
+    {
+      "id": 11,
+      "name": "思想道德修养与法律基础",
+      "credit": 3.0,
+      "period": 48,
+      "type": "必修",
+      "college": "09",
+      "starttime": "1"
+    },
+    {
+      "id": 12,
+      "name": "中国近现代史纲要",
+      "credit": 2.0,
+      "period": 32,
+      "type": "必修",
+      "college": "09",
+      "starttime": "2"
+    },
+    {
+      "id": 13,
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "credit": 6.0,
+      "period": 96,
+      "type": "必修",
+      "college": "09",
+      "starttime": "3"
+    },
+    {
+      "id": 14,
+      "name": "马克思主义基本原理",
+      "credit": 3.0,
+      "period": 48,
+      "type": "必修",
+      "college": "09",
+      "starttime": "4"
+    },
+    {
+      "id": 15,
+      "name": "高等数学B（1）",
+      "credit": 5.0,
+      "period": 80,
+      "type": "必修",
+      "college": "14",
+      "starttime": "1"
+    },
+    {
+      "id": 16,
+      "name": "高等数学B（2）",
+      "credit": 6.0,
+      "period": 96,
+      "type": "必修",
+      "college": "14",
+      "starttime": "2"
+    },
+    {
+      "id": 17,
+      "name": "线性代数",
+      "credit": 3.0,
+      "period": 48,
+      "type": "必修",
+      "college": "14",
+      "starttime": "1"
+    },
+    {
+      "id": 18,
+      "name": "概率论与数量统计",
+      "credit": 3.5,
+      "period": 56,
+      "type": "必修",
+      "college": "14",
+      "starttime": "3"
+    },
+    {
+      "id": 19,
+      "name": "离散数学",
+      "credit": 3.5,
+      "period": 56,
+      "type": "必修",
+      "college": "14",
+      "starttime": "3"
+    },
+    {
+      "id": 20,
+      "name": "JAVA程序设计",
+      "credit": 3.5,
+      "period": 64,
+      "type": "选修",
+      "college": "02",
+      "starttime": "4"
+    },
+    {
+      "id": 21,
+      "name": "计算方法",
+      "credit": 3.0,
+      "period": 48,
+      "type": "选修",
+      "college": "02",
+      "starttime": "4"
+    },
+    {
+      "id": 22,
+      "name": "WEB程序设计",
+      "credit": 3.0,
+      "period": 56,
+      "type": "选修",
+      "college": "02",
+      "starttime": "5"
+    }
+  ]
+}

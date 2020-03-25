@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+div {
+    display: block;
+}
+.ban {
+    width: 100%;
+    height: 498px;
+    position: relative;
+	
+}
+
+.ban .full-screen-slider {
+    width: 100%;
+    height: 498px;
+    float: left;
+    position: relative;
+	text-align: center;
+}
+.ban .full-screen-slider .img{
+	vertical-align: middle;
+}
+
+
+.news{
+	margin: 0 auto;
+	width: 1400px;
+	height:330px;
+/* 	background: #0000FF; */
+}
+.news .news1{
+	padding-top: 10px;
+	width: 500px;
+	height:320px;
+	/* background: #00FF00; */
+	float: left;
+}
+.news .words{
+	padding-top: 10px;
+	width:800px;
+	height:270px;
+	float: left;
+	/* background-color: red; */
+}
+.news .words h2{
+	font-size: 30px;
+	color: #22231d;
+	font-weight: 500;
+	margin-top: 40px;
+	margin-bottom: 9px;
+	}
+
+.news .words h3{
+	font-size: 15px;
+	color: #4a3836;
+	font-weight: 500;
+	/*单行文本内容超出显示省略号的效果*/
+	width: 321px;
+	white-space: nowrap;/*让文本一行显示不换行*/
+	overflow: hidden;/*超出隐藏*/
+	text-overflow: ellipsis;/*添加省略号*/
+	margin-bottom: 8px;
+}
+
+.news .words p{
+	font-size: 12px;
+	font-style: italic;/*倾斜*/
+	color: #969990;
+	text-indent: 2em;
+	border-bottom: 1px dashed #9b9b9b;
+	padding-bottom: 11px;
+	line-height: 18px;
+}
+.news .words ul{
+	margin-top: 8px;
+}
+.news .words ul li{
+	font-size: 14px;
+	line-height: 29px;
+	padding-left: 11px;
+}
+.news .words ul li a{
+	color: #493f35;
+}
+.wxxwlft{
+	/* background: red; */
+    border-bottom: 1px solid #9f9f9f;
+    height: 45px;
+    width: 100%;
+}
+.wxxwlft .wxxwlftlf {
+    font-size: 20px;
+    line-height: 43px;
+    font-weight: bold;
+    color: #035f3f;
+    border-bottom: 2px solid #035f3f;
+    float: left;
+}
+
+.zxkc{
+	/* background: #0000FF; */
+	height:460px;
+	width:1400px;
+	margin: 0 auto;
+}
+.zxkc .box_1{
+	/* background: gold; */
+	width: 1180px;
+	height: 450px;
+	float: left;
+}
+
+.zxkc .box_1 ul li .pic img{
+	padding: 10px;
+	width:270px;
+	height: 300px;
+	
+}
+.zxkc .box_1 ul li .name{
+	/* background: #00FF00; */
+	text-align: center;
+	font-size: 18px;
+}
+.zxkc .box_1 ul li{
+	float:left;
+}
+.zxkc  .more{
+	width: 100px;
+	height: 100px;
+	/* background-color: yellow; */
+	float: left;
+	margin-top:20px;
+}
